@@ -1,0 +1,16 @@
+{
+	"settings": [
+		{
+			"id": 1,
+			"label": "Paddle Color",
+			"address": "0x00001000",
+			"type": "list",
+			"items": [
+				{"label": "White", "value": "0xFFFFFF"},
+				{"label": "Red",   "value": "0xFF0000"},
+				{"label": "Green", "value": "0x00FF00"},
+				{"label": "Blue",  "value": "0x0000FF"}
+			]
+		}
+	]
+}

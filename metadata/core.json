@@ -1,0 +1,10 @@
+{
+	"metadata": {
+		"id": "Demo.DemoCore",
+		"name": "Demo Core",
+		"author": "Demo"
+	},
+	"bitstreams": [
+		{"target": "gamebub_rev4", "filename": "DemoCore-gamebub_rev4.bit"}
+	]
+}
