@@ -1,4 +1,4 @@
-# Game Bub Core Example
+# Game Bub Core Example - BETA
 
 This repository contains an example of a Game Bub core. This may also be used as a starting point for developing your own cores.
 
