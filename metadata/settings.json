@@ -10,7 +10,8 @@
 				{"label": "Red",   "value": "0xFF0000"},
 				{"label": "Green", "value": "0x00FF00"},
 				{"label": "Blue",  "value": "0x0000FF"}
-			]
+			],
+			"default": "0xFFFFFF"
 		}
 	]
 }
